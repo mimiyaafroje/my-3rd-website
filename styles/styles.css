@@ -1,12 +1,25 @@
-h2{
-    color: blue;
+h1{
+    color: rgb(131, 16, 1);
     text-align: center;
     text-decoration: underline;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     
     
 }
+.btn{
+    color: rgb(9, 1, 36);
+    padding: 10px;
+    background-color:rgb(186, 67, 8) ;
+    border: 10pz;
+    border-color: black;
+    border-radius: 10px;
+}
+.btn-parent{
+    text-align: center;
+}
 #heading-parent{
-    background-color: aqua;
+   background-image: linear-gradient(to top, orange,pink);
     height: 200px;
     width: 600px;
     padding-top: 100px;
